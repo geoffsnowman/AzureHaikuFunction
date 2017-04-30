@@ -1,0 +1,14 @@
+﻿{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "Autofac":"3.5.2",
+        "Microsoft.Bcl":"1.1.10",
+        "Microsoft.Bcl.Async":"1.0.168",
+        "Microsoft.Bcl.Build":"1.0.21",
+        "Microsoft.Net.Http": "2.2.29",
+        "TweetinviAPI": "1.2.0.1"
+      }
+    }
+  }
+}
